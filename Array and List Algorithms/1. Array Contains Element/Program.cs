@@ -1,8 +1,9 @@
-﻿namespace _1.Array_Contains_Element
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace _1.Array_Contains_Element
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
 
     class Program
     {
@@ -15,6 +16,7 @@
             var isFound = false;
 
             for (int i = 0; i < arr.Length; i++)
+
             {
                 if (arr[i] == element)
                 {
@@ -24,11 +26,12 @@
                     break;
 
                 }
-            }           
-            else
-            {
-                Console.WriteLine("no");
+                else
+                {
+                    Console.WriteLine("no");
+                }
             }
         }
     }
 }
+
