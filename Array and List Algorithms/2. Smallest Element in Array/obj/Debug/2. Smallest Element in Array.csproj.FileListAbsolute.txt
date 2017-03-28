@@ -1,0 +1,5 @@
+D:\Programming Fundamentals - Extended - Jan 2017\Array and List Algorithms\2. Smallest Element in Array\bin\Debug\_2.Smallest_Element_in_Array.exe.config
+D:\Programming Fundamentals - Extended - Jan 2017\Array and List Algorithms\2. Smallest Element in Array\bin\Debug\_2.Smallest_Element_in_Array.exe
+D:\Programming Fundamentals - Extended - Jan 2017\Array and List Algorithms\2. Smallest Element in Array\bin\Debug\_2.Smallest_Element_in_Array.pdb
+D:\Programming Fundamentals - Extended - Jan 2017\Array and List Algorithms\2. Smallest Element in Array\obj\Debug\_2.Smallest_Element_in_Array.exe
+D:\Programming Fundamentals - Extended - Jan 2017\Array and List Algorithms\2. Smallest Element in Array\obj\Debug\_2.Smallest_Element_in_Array.pdb
