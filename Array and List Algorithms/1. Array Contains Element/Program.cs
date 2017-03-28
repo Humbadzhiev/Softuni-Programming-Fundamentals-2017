@@ -18,18 +18,23 @@ namespace _1.Array_Contains_Element
             for (int i = 0; i < arr.Length; i++)
 
             {
+
                 if (arr[i] == element)
                 {
                     isFound = true;
 
-                    Console.WriteLine("yes");
+
                     break;
 
                 }
-                else
-                {
-                    Console.WriteLine("no");
-                }
+            }
+            if (isFound)
+            {
+                Console.WriteLine("yes");
+            }
+            else
+            {
+                Console.WriteLine("no");
             }
         }
     }

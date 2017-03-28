@@ -4,3 +4,9 @@ D:\Programming Fundamentals - Extended - Jan 2017\Array and List Algorithms\1. A
 D:\Programming Fundamentals - Extended - Jan 2017\Array and List Algorithms\1. Array Contains Element\obj\Debug\1. Array Contains Element.csprojResolveAssemblyReference.cache
 D:\Programming Fundamentals - Extended - Jan 2017\Array and List Algorithms\1. Array Contains Element\obj\Debug\_1.Array_Contains_Element.exe
 D:\Programming Fundamentals - Extended - Jan 2017\Array and List Algorithms\1. Array Contains Element\obj\Debug\_1.Array_Contains_Element.pdb
+D:\Softuni-Programming-Fundamentals-2017\Array and List Algorithms\1. Array Contains Element\bin\Debug\_1.Array_Contains_Element.exe.config
+D:\Softuni-Programming-Fundamentals-2017\Array and List Algorithms\1. Array Contains Element\obj\Debug\_1.Array_Contains_Element.exe
+D:\Softuni-Programming-Fundamentals-2017\Array and List Algorithms\1. Array Contains Element\obj\Debug\_1.Array_Contains_Element.pdb
+D:\Softuni-Programming-Fundamentals-2017\Array and List Algorithms\1. Array Contains Element\bin\Debug\_1.Array_Contains_Element.exe
+D:\Softuni-Programming-Fundamentals-2017\Array and List Algorithms\1. Array Contains Element\bin\Debug\_1.Array_Contains_Element.pdb
+D:\Softuni-Programming-Fundamentals-2017\Array and List Algorithms\1. Array Contains Element\obj\Debug\1. Array Contains Element.csprojResolveAssemblyReference.cache
