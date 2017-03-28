@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Shellbound", "1. Shellbound\1. Shellbound.csproj", "{D5522668-B10B-406B-BBD2-E8F9269740DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Dict-Ref-Advanced", "2. Dict-Ref-Advanced\2. Dict-Ref-Advanced.csproj", "{1C8D49AD-E262-4092-8EBB-9B9B4CE5C54B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5522668-B10B-406B-BBD2-E8F9269740DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5522668-B10B-406B-BBD2-E8F9269740DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5522668-B10B-406B-BBD2-E8F9269740DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5522668-B10B-406B-BBD2-E8F9269740DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8D49AD-E262-4092-8EBB-9B9B4CE5C54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8D49AD-E262-4092-8EBB-9B9B4CE5C54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8D49AD-E262-4092-8EBB-9B9B4CE5C54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8D49AD-E262-4092-8EBB-9B9B4CE5C54B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

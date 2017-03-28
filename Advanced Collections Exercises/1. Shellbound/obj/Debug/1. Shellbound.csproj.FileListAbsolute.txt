@@ -1,0 +1,6 @@
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections Exercises\1. Shellbound\bin\Debug\_1.Shellbound.exe.config
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections Exercises\1. Shellbound\bin\Debug\_1.Shellbound.exe
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections Exercises\1. Shellbound\bin\Debug\_1.Shellbound.pdb
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections Exercises\1. Shellbound\obj\Debug\1. Shellbound.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections Exercises\1. Shellbound\obj\Debug\_1.Shellbound.exe
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections Exercises\1. Shellbound\obj\Debug\_1.Shellbound.pdb
