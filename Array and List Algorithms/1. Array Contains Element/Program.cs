@@ -24,10 +24,7 @@
                     break;
 
                 }
-            }
-        
-
-            
+            }           
             else
             {
                 Console.WriteLine("no");
