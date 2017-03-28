@@ -1,0 +1,6 @@
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections\1. Average Student Grades\bin\Debug\_1.Average_Student_Grades.exe.config
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections\1. Average Student Grades\bin\Debug\_1.Average_Student_Grades.exe
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections\1. Average Student Grades\bin\Debug\_1.Average_Student_Grades.pdb
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections\1. Average Student Grades\obj\Debug\1. Average Student Grades.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections\1. Average Student Grades\obj\Debug\_1.Average_Student_Grades.exe
+D:\Programming Fundamentals - Extended - Jan 2017\Advanced Collections\1. Average Student Grades\obj\Debug\_1.Average_Student_Grades.pdb
